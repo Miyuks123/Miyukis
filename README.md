@@ -1,4 +1,4 @@
-<h1 align="center">こんにち , I'm Miyuki Takahashi</h1>
+<h1 align="center">こんにちは , I'm Miyuki Takahashi</h1>
 <h3 align="center">A passionate frontend developer from Japan(Philippines).</h3>
 
 - 🌱 I’m currently learning **Java, Python, HTML, CSS, PHP, Database**
